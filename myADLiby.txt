@@ -1,0 +1,3 @@
+# > 小红书
+host, ads-img-al.xhscdn.com, AdBlock
+host, ads-video-al.xhscdn.com, AdBlock
