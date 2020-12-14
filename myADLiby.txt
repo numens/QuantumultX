@@ -1,4 +1,4 @@
 # > 小红书
 host, ads-img-al.xhscdn.com, AdBlock
 host, ads-video-al.xhscdn.com, AdBlock
-ip-cidr, 49.234.160.100, AdBlock
+ip-cidr, 49.234.160.100/32, AdBlock
